@@ -1,0 +1,2 @@
+MySQL to start in termatinal: mysql -u root -p
+MYSQL create database: create database Demo;-> run the query
